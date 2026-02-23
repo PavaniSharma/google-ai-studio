@@ -1,0 +1,7 @@
+{
+  "name": "AgroProfit AI",
+  "description": "A smart crop revenue and profit calculator for Indian farmers. Analyzes real-time market prices using Gemini AI and provides detailed financial insights in INR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
